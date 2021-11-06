@@ -1,5 +1,5 @@
-# Dio Dino Game 
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+# Dino Game 
+Clone of the offline Dino game from Google Chrome for a DIO bootcamp.
 
 ![screenshot](example.png?raw=true "screenshot")
 
